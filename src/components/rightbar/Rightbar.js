@@ -23,6 +23,7 @@ export default function Rightbar({ profile }) {
     );
   };
 
+  
   const ProfileRightbar = () => {
     return (
       <>
